@@ -13,9 +13,10 @@ Timer which indicate the end of the game  <br>
 Calculate score switch the number of the correct answer <br>
 register and login using Firebase <br>
 
-#Layout and icons : <br>
+## Layout and icons : <br>
 
-directory Drawable : contains personalazed backgrounds and buttons <br>
+directory res <br>
+Drawable : contains personalazed backgrounds and buttons <br>
 raw : contains the dictionary .txt <br>
 layouts : beautiful and modern layouts <br>
 
